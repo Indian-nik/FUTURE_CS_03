@@ -79,6 +79,5 @@ You can view the full project report
 
 ## 📝 Author
 
-**Smridhi Gera**  
-CIN ID: FIT/SEP25/CS4021
+**Pawan Bharambe**  
 Future Interns Cyber Security Program  
